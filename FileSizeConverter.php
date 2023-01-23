@@ -1,11 +1,11 @@
 <?php
 
 /**
-* FileSizeConverter
-*
-* @author [ramazancetinkaya]
-* @date [23.01.2023]
-*/
+ * FileSizeConverter
+ *
+ * @author [ramazancetinkaya]
+ * @date [23.01.2023]
+ */
 
 class FileSizeConverter
 {
