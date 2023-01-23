@@ -1,5 +1,12 @@
 <?php
 
+/**
+* FileSizeConverter
+*
+* @author [ramazancetinkaya]
+* @date [23.01.2023]
+*/
+
 class FileSizeConverter
 {
     private const UNITS = ['B', 'KB', 'MB', 'GB', 'TB', 'PB', 'EB', 'ZB', 'YB'];
