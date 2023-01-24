@@ -28,8 +28,3 @@ class FileSizeConverter
         return round($size / (1024 ** $i), self::PRECISION) . ' ' . self::UNITS[$i];
     }
 }
-
-// You can use this class in your code like this:
-$converter = new FileSizeConverter();
-$size = $converter->convert(12345678);
-// Output: "11.77 MB"
