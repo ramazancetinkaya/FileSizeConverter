@@ -13,3 +13,13 @@ $size = $converter->convert(12345678);
 ```php
 "11.77 MB"
 ```
+
+### Authors
+
+**Ramazan Çetinkaya**
+
+- [github/ramazancetinkaya](https://github.com/ramazancetinkaya)
+
+### License
+
+Copyright © 2023, [Ramazan Çetinkaya](https://github.com/ramazancetinkaya).
